@@ -20,12 +20,3 @@ We're working on a fantasy-themed game built with **Unity**, focused on storytel
 - 🌱 **Growth Friendly** – Ask questions. Offer feedback. Try new things. We’re all learning.
 
 ---
-
-## 🚀 Getting Started
-
-If you're new to the project:
-
-1. Make sure you’ve been added to the organization.
-2. Clone the main Unity repository:  
-   ```bash
-   git clone https://github.com/KindredGuild/<project-name>.git
